@@ -24,4 +24,6 @@ function accessElementInArray(array, index) {
   return array[index]
 }
 
-function destructivelyRemoveElementFromBeginningOfArray
+function destructivelyRemoveElementFromBeginningOfArray(array) {
+  
+}
