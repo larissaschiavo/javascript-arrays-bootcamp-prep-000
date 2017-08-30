@@ -15,4 +15,6 @@ function addElementToEndOfArray(array, element) {
   return n
 }
 
-function destructivelyAddElementToEndOfArray
+function destructivelyAddElementToEndOfArray(array, element) {
+
+}
